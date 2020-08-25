@@ -14,22 +14,18 @@
 # Пример
 
 # Ввод
-`
+
+```
 3
-
 eat tea
-
 find search
-
 master stream
-`
+```
 
 # Вывод
-`
-YES
 
+```
+YES
 NO
-
 YES
-
-`
+```
